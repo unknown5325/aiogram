@@ -1,0 +1,5 @@
+aiogram 3.31.0
+asyncio
+os
+dotenv 
+requests 2.34.2
